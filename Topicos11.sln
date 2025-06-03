@@ -5,6 +5,16 @@ VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda", "Agenda\Agenda.csproj", "{67923452-E163-43FC-A45F-0F175F79B335}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoBaseDatos1", "AccesoBaseDatos1-master\AccesoBaseDatos1.csproj", "{AB537FDF-C091-469A-8A01-8E1968B3CC24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Componentes y librerias", "Componentes y librerias\Componentes y librerias\Componentes y librerias.csproj", "{E7A15F75-B165-4C6D-A316-0B39965E982B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestion de contactos 2", "Gestion de contactos 2\Gestion de contactos 2\Gestion de contactos 2.csproj", "{4D4DC3EA-5D37-4D8E-A93F-D918967B04BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imagenes practica", "Imagenes practica\Imagenes practica\Imagenes practica.csproj", "{44305D04-C18E-408E-A73E-7F70506A4A53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 4. Concurrencia. Números primos", "Practica 4. Concurrencia. Números primos\Practica 4. Concurrencia. Números primos\Practica 4. Concurrencia. Números primos.csproj", "{4C0A4B8F-1355-4730-BA74-08AC981A891B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +25,26 @@ Global
 		{67923452-E163-43FC-A45F-0F175F79B335}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67923452-E163-43FC-A45F-0F175F79B335}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67923452-E163-43FC-A45F-0F175F79B335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB537FDF-C091-469A-8A01-8E1968B3CC24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB537FDF-C091-469A-8A01-8E1968B3CC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB537FDF-C091-469A-8A01-8E1968B3CC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB537FDF-C091-469A-8A01-8E1968B3CC24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A15F75-B165-4C6D-A316-0B39965E982B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A15F75-B165-4C6D-A316-0B39965E982B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A15F75-B165-4C6D-A316-0B39965E982B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A15F75-B165-4C6D-A316-0B39965E982B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D4DC3EA-5D37-4D8E-A93F-D918967B04BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D4DC3EA-5D37-4D8E-A93F-D918967B04BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D4DC3EA-5D37-4D8E-A93F-D918967B04BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D4DC3EA-5D37-4D8E-A93F-D918967B04BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44305D04-C18E-408E-A73E-7F70506A4A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44305D04-C18E-408E-A73E-7F70506A4A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44305D04-C18E-408E-A73E-7F70506A4A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44305D04-C18E-408E-A73E-7F70506A4A53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C0A4B8F-1355-4730-BA74-08AC981A891B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C0A4B8F-1355-4730-BA74-08AC981A891B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C0A4B8F-1355-4730-BA74-08AC981A891B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C0A4B8F-1355-4730-BA74-08AC981A891B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
